@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+sqlite3-api
+Django
+psycopg2-binary
+django-celery-beat
+celery
